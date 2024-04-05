@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "b89766fc-413f-4104-a9d2-ca2b29248dc7",
+      "username": "Abhishek",
+      "email": "abhi@gmail.com",
+      "password": "pass",
+      "roles": [
+        "applicant"
+      ],
+      "jobsApplied": [],
+      "exp": {
+        "college": "Thapar",
+        "totalExp": "2",
+        "currentTitle": "Frontend Developer"
+      }
+    }
+  ],
+  "jobs": []
+}
